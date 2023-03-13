@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B2192D04-8424-4905-BCF1-7CDBC61470BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesWeb", "NotesWeb\NotesWeb.csproj", "{212B5E45-02CA-45BD-9FDF-9353D2D78A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2192D04-8424-4905-BCF1-7CDBC61470BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2192D04-8424-4905-BCF1-7CDBC61470BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2192D04-8424-4905-BCF1-7CDBC61470BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2192D04-8424-4905-BCF1-7CDBC61470BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212B5E45-02CA-45BD-9FDF-9353D2D78A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212B5E45-02CA-45BD-9FDF-9353D2D78A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212B5E45-02CA-45BD-9FDF-9353D2D78A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212B5E45-02CA-45BD-9FDF-9353D2D78A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B7D791-A6A3-49DA-8C0F-F7D5D62371FB}
+	EndGlobalSection
+EndGlobal
